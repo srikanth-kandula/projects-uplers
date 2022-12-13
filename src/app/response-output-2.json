@@ -1,0 +1,64 @@
+{
+  "headers": {
+    "normalizedNames": {},
+    "lazyUpdate": null,
+    "headers": {}
+  },
+  "status": 200,
+  "statusText": "OK",
+  "url": null,
+  "ok": true,
+  "type": 4,
+  "body": {
+    "friends": [
+      {
+        "name": "John",
+        "likeCount": 5
+      },
+      {
+        "name": "Mary",
+        "likeCount": 9
+      },
+      {
+        "name": "Elon",
+        "likeCount": 12
+      },
+      {
+        "name": "Jeff",
+        "likeCount": 2
+      },
+      {
+        "name": "Sophie",
+        "likeCount": 15
+      },
+      {
+        "name": "Mia",
+        "likeCount": 3
+      },
+      {
+        "name": "Chloe",
+        "likeCount": 25
+      },
+      {
+        "name": "Tom",
+        "likeCount": 11
+      },
+      {
+        "name": "Kate",
+        "likeCount": 24
+      },
+      {
+        "name": "Amy",
+        "likeCount": 1
+      },
+      {
+        "name": "Mike",
+        "likeCount": 35
+      },
+      {
+        "name": "Andrew",
+        "likeCount": 23
+      }
+    ]
+  }
+}

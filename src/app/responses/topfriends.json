@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Mike",
+    "likeCount": 35,
+    "enableBtn": true
+  },
+  {
+    "name": "Chloe",
+    "likeCount": 25,
+    "enableBtn": true
+  },
+  {
+    "name": "Kate",
+    "likeCount": 24,
+    "enableBtn": true
+  },
+  {
+    "name": "Andrew",
+    "likeCount": 23,
+    "enableBtn": true
+  },
+  {
+    "name": "Sophie",
+    "likeCount": 15,
+    "enableBtn": true
+  }
+]
